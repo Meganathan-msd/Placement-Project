@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(23, 24, 24);
+    background-image: url(/image/download\ \(9\).jpeg);
+    text-decoration-color: rgb(33, 161, 161);
+    background-image:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+.form{
+    position: absolute;
+}
+.result{
+    margin: ;
+}
+.LOGIN{
+    width: fit-content;
+    height: 500px;
+    background-color: aquamarine;
+}
