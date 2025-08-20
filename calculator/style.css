@@ -1,0 +1,35 @@
+.all{
+    background-color:rgb(80, 74, 74);
+    height: 270px;
+    width: 190px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.display1 input{
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 40px;
+    justify-content: end;
+    text-align: end;
+    
+}
+
+.key button{
+    width: 40px;
+    justify-content: space-around;
+     border-radius: 10px;
+     margin-right: 1px;
+     background-color:bisque;
+}
+
+.key{
+   
+    margin-top: 20px;
+    display: grid;
+    gap:15px ;
+    grid-row: 10px;
+}
+.display{
+    font-size: 20px;
+}
